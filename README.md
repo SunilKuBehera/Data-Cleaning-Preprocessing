@@ -10,9 +10,6 @@ This project focuses on essential techniques and implementations for cleaning an
 - **Outlier Detection & Treatment:**  
   Identification and handling of anomalous records to reduce noise and improve dataset integrity.
 
-- **Data Type Conversion:**  
-  Automated conversion of columns to appropriate types (numeric, categorical.) for consistency.
-
 - **Categorical Variable Encoding:**  
   One-hot encoding, label encoding, and custom encoding strategies to transform categorical features for ML models.
 
